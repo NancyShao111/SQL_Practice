@@ -1,2 +1,6 @@
 # SQL_Practice
-SQL practice records (keep updating)
+SQL practice records 
+
+Leetcode Database Question Solutions
+
+(keep updating)
